@@ -1,0 +1,5 @@
+while [ true ]
+do
+  python3 get_flag_config.py
+  sleep 210
+done
